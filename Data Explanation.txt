@@ -1,0 +1,19 @@
+Data Explanation
+
+
+allometry.csv
+
+This dataset contains measurements of tree dimensions and biomass. Data kindly provided by John
+Marshall, University of Idaho.
+Variables:
+• species - The tree species (PSME = Douglas fir, PIMO = Western white pine, PIPO = Ponderosa
+pine).
+• diameter - Tree diameter at 1.3m above ground (cm).
+• height - Tree height (m).
+• leafarea - Total leaf area (m2
+).
+• branchmass - Total (oven-dry) mass of branches (kg).
+
+plot(diameter, height)
+
+code the diameter to high and low based on diameter > 50
